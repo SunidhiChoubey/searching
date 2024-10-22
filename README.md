@@ -96,7 +96,7 @@ int main(void)
 }
 ~~~
 # Output-
-![](
+![](https://github.com/SunidhiChoubey/searching/blob/main/Screenshot%202024-10-22%20140009.png)
 # Conclusion-
 We learnt about searching in C++ and We learnt the use case of the types of searching in C++.
 
